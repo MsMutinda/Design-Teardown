@@ -5,11 +5,11 @@
         display: inline-block;
     }
     nav.top {
-        height: 260px; 
+        height: 280px; 
     }
     nav#right {
         position: relative;
-        top: 75px;
+        top: 100px;
         right: 11px;
     }
     section#four {
